@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 50,
+        "feature" : ["Gym access", "Locker room", "1 fitness class/week"]
+
+    },
+    {
+        
+        "id": 2,
+        "name": "Premium Membership",
+        "price": 80,
+        "feature" : ["Gym access", "Locker room", "Unlimited classes", "1 personal"]
+
+    },
+    {
+        
+        "id": 3,
+        "name": "Corporate Membership",
+        "price": 120,
+        "feature" : ["Gym access", "Locker room", "1 fitness class/week"]
+
+    }
+    
+
+]
